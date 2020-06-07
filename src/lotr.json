@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "name": "aragorn",
+    "image": "../public/Images/aragorn.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 2,
+    "name": "arwen",
+    "image": "../public/Images/arwen.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 3,
+    "name": "elrond",
+    "image": "../public/Images/elrond.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 4,
+    "name": "frodo",
+    "image": "../public/Images/frodo.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 5,
+    "name": "gandalf",
+    "image": "../public/Images/gandalf.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 6,
+    "name": "gimli",
+    "image": "../public/Images/gimli.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 7,
+    "name": "gollum",
+    "image": "../public/Images/gollum.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 8,
+    "name": "legolas",
+    "image": "../public/Images/legolas.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 9,
+    "name": "meriadoc",
+    "image": "../public/Images/meri.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 10,
+    "name": "peregrin",
+    "image": "../public/Images/pip.png",
+    "clickedOn": false
+  },
+  {
+    "id": 11,
+    "name": "sam",
+    "image": "../public/Images/sam.jpg",
+    "clickedOn": false
+  },
+  {
+    "id": 12,
+    "name": "saruman",
+    "image": "../public/Images/saruman.jpg",
+    "clickedOn": false
+  }
+]
