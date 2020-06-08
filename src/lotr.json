@@ -55,14 +55,14 @@
   },
   {
     "id": 10,
-    "name": "peregrin",
-    "image": "https://vignette.wikia.nocookie.net/lotr/images/0/0a/Pippinprintscreen.jpg/revision/latest/top-crop/width/360/height/450?cb=20060310083048",
+    "name": "sam",
+    "image": "https://i.pinimg.com/originals/04/c0/ca/04c0ca6a79903e41008d08ce9c50c7b6.jpg",
     "clickedOn": false
   },
   {
     "id": 11,
-    "name": "sam",
-    "image": "https://i.pinimg.com/originals/04/c0/ca/04c0ca6a79903e41008d08ce9c50c7b6.jpg",
+    "name": "peregrin",
+    "image": "https://vignette.wikia.nocookie.net/lotr/images/0/0a/Pippinprintscreen.jpg/revision/latest/top-crop/width/360/height/450?cb=20060310083048",
     "clickedOn": false
   },
   {
