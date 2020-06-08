@@ -1,0 +1,14 @@
+  .wrapper {
+  background-image:  url(https://i.pinimg.com/originals/6c/d8/ee/6cd8ee7724baea7dc62cdefe3717bea6.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  box-shadow: 0 3px 6px black, 0 3px 6px black;
+}
