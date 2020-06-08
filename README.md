@@ -2,7 +2,7 @@
 MemoryClick is a web game application where users click images of the cast of The Lord of the Rings. You win the game whenever you have clicked all 12 characters. After each click, the pictures will rearrange!
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to Use
 
