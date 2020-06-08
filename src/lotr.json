@@ -3,73 +3,73 @@
   {
     "id": 1,
     "name": "aragorn",
-    "image": "../public/Images/aragorn.jpg",
+    "image": "https://vignette.wikia.nocookie.net/lotr/images/b/b6/Aragorn_profile.jpg/revision/latest?cb=20170121121423",
     "clickedOn": false
   },
   {
     "id": 2,
     "name": "arwen",
-    "image": "../public/Images/arwen.jpg",
+    "image": "https://i.pinimg.com/564x/d5/5a/c0/d55ac0e4e0e21701629c19ee7d402066.jpg",
     "clickedOn": false
   },
   {
     "id": 3,
     "name": "elrond",
-    "image": "../public/Images/elrond.jpg",
+    "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-1/13557767_305686246440406_1255093533123513713_n.jpg?_nc_cat=104&_nc_sid=dbb9e7&_nc_ohc=DH0FGJQZcjgAX_sqMcY&_nc_ht=scontent-dfw5-2.xx&oh=073071eadb6119fd8a4d607ad70e87b6&oe=5F0334D5",
     "clickedOn": false
   },
   {
     "id": 4,
     "name": "frodo",
-    "image": "../public/Images/frodo.jpg",
+    "image": "https://usercontent2.hubstatic.com/13901487_f520.jpg",
     "clickedOn": false
   },
   {
     "id": 5,
     "name": "gandalf",
-    "image": "../public/Images/gandalf.jpg",
+    "image": "https://usercontent1.hubstatic.com/13901482_f520.jpg",
     "clickedOn": false
   },
   {
     "id": 6,
     "name": "gimli",
-    "image": "../public/Images/gimli.jpg",
+    "image": "https://www.hrhmag.com/wp-content/uploads/2019/05/unnamed-38.jpg",
     "clickedOn": false
   },
   {
     "id": 7,
     "name": "gollum",
-    "image": "../public/Images/gollum.jpg",
+    "image": "https://usercontent2.hubstatic.com/13901495_f520.jpg",
     "clickedOn": false
   },
   {
     "id": 8,
     "name": "legolas",
-    "image": "../public/Images/legolas.jpg",
+    "image": "https://vignette.wikia.nocookie.net/lotr/images/3/33/Legolas_-_in_Two_Towers.PNG/revision/latest?cb=20120916035151",
     "clickedOn": false
   },
   {
     "id": 9,
     "name": "meriadoc",
-    "image": "../public/Images/meri.jpg",
+    "image": "https://vignette.wikia.nocookie.net/pjlotrfilms/images/b/b9/Merry.jpg/revision/latest/top-crop/width/360/height/450?cb=20170522202622",
     "clickedOn": false
   },
   {
     "id": 10,
     "name": "peregrin",
-    "image": "../public/Images/pip.png",
+    "image": "https://vignette.wikia.nocookie.net/lotr/images/0/0a/Pippinprintscreen.jpg/revision/latest/top-crop/width/360/height/450?cb=20060310083048",
     "clickedOn": false
   },
   {
     "id": 11,
     "name": "sam",
-    "image": "../public/Images/sam.jpg",
+    "image": "https://i.pinimg.com/originals/04/c0/ca/04c0ca6a79903e41008d08ce9c50c7b6.jpg",
     "clickedOn": false
   },
   {
     "id": 12,
     "name": "saruman",
-    "image": "../public/Images/saruman.jpg",
+    "image": "https://i.pinimg.com/originals/a3/b7/a7/a3b7a7fab3ff446687c9e72156079953.jpg",
     "clickedOn": false
   }
 ]
