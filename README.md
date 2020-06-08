@@ -3,6 +3,9 @@ MemoryClick is a web game application where users click images of the cast of Th
 
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+<br>
+![]()
 
 ## How to Use
 
