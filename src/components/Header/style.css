@@ -10,10 +10,11 @@
 
 .reset {
     font-size: 36px;
+    font-family: 'Lemonada', cursive;
     border-radius: 8px;
     border-color: gold;
     background-color: black;
-    color: gold;
+    color:whitesmoke;
 }
 
 h1 {
